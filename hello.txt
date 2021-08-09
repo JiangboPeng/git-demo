@@ -8,8 +8,8 @@ helloGit GitHello
 helloGit GitHello
 helloGit GitHello
 helloGit 333333333333333333333333
-helloGit mastertest
-helloGit
+helloGit mastertest 
+helloGit hotfixtest
 helloGit
 helloGit
 helloGit
